@@ -1,0 +1,17 @@
+C:\Users\erdmg\source\repos\Making_Game(inForm)\Making_Game(inForm)\bin\Debug\netcoreapp3.1\Making_Game(inForm).exe
+C:\Users\erdmg\source\repos\Making_Game(inForm)\Making_Game(inForm)\bin\Debug\netcoreapp3.1\Making_Game(inForm).deps.json
+C:\Users\erdmg\source\repos\Making_Game(inForm)\Making_Game(inForm)\bin\Debug\netcoreapp3.1\Making_Game(inForm).runtimeconfig.json
+C:\Users\erdmg\source\repos\Making_Game(inForm)\Making_Game(inForm)\bin\Debug\netcoreapp3.1\Making_Game(inForm).runtimeconfig.dev.json
+C:\Users\erdmg\source\repos\Making_Game(inForm)\Making_Game(inForm)\bin\Debug\netcoreapp3.1\Making_Game(inForm).dll
+C:\Users\erdmg\source\repos\Making_Game(inForm)\Making_Game(inForm)\bin\Debug\netcoreapp3.1\Making_Game(inForm).pdb
+C:\Users\erdmg\source\repos\Making_Game(inForm)\Making_Game(inForm)\obj\Debug\netcoreapp3.1\Making_Game(inForm).csproj.AssemblyReference.cache
+C:\Users\erdmg\source\repos\Making_Game(inForm)\Making_Game(inForm)\obj\Debug\netcoreapp3.1\Making_Game_inForm_.Form1.resources
+C:\Users\erdmg\source\repos\Making_Game(inForm)\Making_Game(inForm)\obj\Debug\netcoreapp3.1\Making_Game(inForm).csproj.GenerateResource.cache
+C:\Users\erdmg\source\repos\Making_Game(inForm)\Making_Game(inForm)\obj\Debug\netcoreapp3.1\Making_Game(inForm).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdmg\source\repos\Making_Game(inForm)\Making_Game(inForm)\obj\Debug\netcoreapp3.1\Making_Game(inForm).AssemblyInfoInputs.cache
+C:\Users\erdmg\source\repos\Making_Game(inForm)\Making_Game(inForm)\obj\Debug\netcoreapp3.1\Making_Game(inForm).AssemblyInfo.cs
+C:\Users\erdmg\source\repos\Making_Game(inForm)\Making_Game(inForm)\obj\Debug\netcoreapp3.1\Making_Game(inForm).csproj.CoreCompileInputs.cache
+C:\Users\erdmg\source\repos\Making_Game(inForm)\Making_Game(inForm)\obj\Debug\netcoreapp3.1\Making_Game(inForm).dll
+C:\Users\erdmg\source\repos\Making_Game(inForm)\Making_Game(inForm)\obj\Debug\netcoreapp3.1\Making_Game(inForm).pdb
+C:\Users\erdmg\source\repos\Making_Game(inForm)\Making_Game(inForm)\obj\Debug\netcoreapp3.1\Making_Game(inForm).genruntimeconfig.cache
+C:\Users\erdmg\source\repos\Making_Game(inForm)\Making_Game(inForm)\obj\Debug\netcoreapp3.1\Making_Game_inForm_.Properties.Resources.resources
