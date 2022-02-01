@@ -1,0 +1,3 @@
+Ahmet,2,Ahmet.png,4500
+Mehmet,7,Mehmet.png,6500
+Ali,4,Ali.png,5250
