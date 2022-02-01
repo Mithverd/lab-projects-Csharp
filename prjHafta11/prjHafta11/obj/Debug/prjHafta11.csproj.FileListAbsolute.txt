@@ -1,0 +1,11 @@
+C:\Users\CSAdmin\source\repos\prjHafta11\prjHafta11\bin\Debug\prjHafta11.exe.config
+C:\Users\CSAdmin\source\repos\prjHafta11\prjHafta11\bin\Debug\prjHafta11.exe
+C:\Users\CSAdmin\source\repos\prjHafta11\prjHafta11\bin\Debug\prjHafta11.pdb
+C:\Users\CSAdmin\source\repos\prjHafta11\prjHafta11\obj\Debug\prjHafta11.csprojAssemblyReference.cache
+C:\Users\CSAdmin\source\repos\prjHafta11\prjHafta11\obj\Debug\prjHafta11.frmChat.resources
+C:\Users\CSAdmin\source\repos\prjHafta11\prjHafta11\obj\Debug\prjHafta11.frmLogin.resources
+C:\Users\CSAdmin\source\repos\prjHafta11\prjHafta11\obj\Debug\prjHafta11.Properties.Resources.resources
+C:\Users\CSAdmin\source\repos\prjHafta11\prjHafta11\obj\Debug\prjHafta11.csproj.GenerateResource.cache
+C:\Users\CSAdmin\source\repos\prjHafta11\prjHafta11\obj\Debug\prjHafta11.csproj.CoreCompileInputs.cache
+C:\Users\CSAdmin\source\repos\prjHafta11\prjHafta11\obj\Debug\prjHafta11.exe
+C:\Users\CSAdmin\source\repos\prjHafta11\prjHafta11\obj\Debug\prjHafta11.pdb

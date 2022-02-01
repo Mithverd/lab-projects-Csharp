@@ -1,0 +1,11 @@
+C:\Users\CSAdmin\source\repos\prjHafta14\prjHafta14\bin\Debug\prjHafta14.exe.config
+C:\Users\CSAdmin\source\repos\prjHafta14\prjHafta14\bin\Debug\prjHafta14.exe
+C:\Users\CSAdmin\source\repos\prjHafta14\prjHafta14\bin\Debug\prjHafta14.pdb
+C:\Users\CSAdmin\source\repos\prjHafta14\prjHafta14\obj\Debug\prjHafta14.csprojAssemblyReference.cache
+C:\Users\CSAdmin\source\repos\prjHafta14\prjHafta14\obj\Debug\prjHafta14.Form1.resources
+C:\Users\CSAdmin\source\repos\prjHafta14\prjHafta14\obj\Debug\prjHafta14.Properties.Resources.resources
+C:\Users\CSAdmin\source\repos\prjHafta14\prjHafta14\obj\Debug\prjHafta14.csproj.GenerateResource.cache
+C:\Users\CSAdmin\source\repos\prjHafta14\prjHafta14\obj\Debug\prjHafta14.csproj.CoreCompileInputs.cache
+C:\Users\CSAdmin\source\repos\prjHafta14\prjHafta14\obj\Debug\prjHafta14.exe
+C:\Users\CSAdmin\source\repos\prjHafta14\prjHafta14\obj\Debug\prjHafta14.pdb
+C:\Users\CSAdmin\source\repos\prjHafta14\prjHafta14\obj\Debug\prjHafta14.Form2.resources

@@ -1,0 +1,10 @@
+C:\Users\CSAdmin\source\repos\prjHafta12Lab\prjHafta12Lab\bin\Debug\prjHafta12Lab.exe.config
+C:\Users\CSAdmin\source\repos\prjHafta12Lab\prjHafta12Lab\bin\Debug\prjHafta12Lab.exe
+C:\Users\CSAdmin\source\repos\prjHafta12Lab\prjHafta12Lab\bin\Debug\prjHafta12Lab.pdb
+C:\Users\CSAdmin\source\repos\prjHafta12Lab\prjHafta12Lab\obj\Debug\prjHafta12Lab.csprojAssemblyReference.cache
+C:\Users\CSAdmin\source\repos\prjHafta12Lab\prjHafta12Lab\obj\Debug\prjHafta12Lab.Form1.resources
+C:\Users\CSAdmin\source\repos\prjHafta12Lab\prjHafta12Lab\obj\Debug\prjHafta12Lab.Properties.Resources.resources
+C:\Users\CSAdmin\source\repos\prjHafta12Lab\prjHafta12Lab\obj\Debug\prjHafta12Lab.csproj.GenerateResource.cache
+C:\Users\CSAdmin\source\repos\prjHafta12Lab\prjHafta12Lab\obj\Debug\prjHafta12Lab.csproj.CoreCompileInputs.cache
+C:\Users\CSAdmin\source\repos\prjHafta12Lab\prjHafta12Lab\obj\Debug\prjHafta12Lab.exe
+C:\Users\CSAdmin\source\repos\prjHafta12Lab\prjHafta12Lab\obj\Debug\prjHafta12Lab.pdb

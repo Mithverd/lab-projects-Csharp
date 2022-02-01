@@ -1,0 +1,10 @@
+C:\Users\CSAdmin\source\repos\prjHafta9_2\prjHafta9_2\bin\Debug\prjHafta9_2.exe.config
+C:\Users\CSAdmin\source\repos\prjHafta9_2\prjHafta9_2\bin\Debug\prjHafta9_2.exe
+C:\Users\CSAdmin\source\repos\prjHafta9_2\prjHafta9_2\bin\Debug\prjHafta9_2.pdb
+C:\Users\CSAdmin\source\repos\prjHafta9_2\prjHafta9_2\obj\Debug\prjHafta9_2.csprojAssemblyReference.cache
+C:\Users\CSAdmin\source\repos\prjHafta9_2\prjHafta9_2\obj\Debug\prjHafta9_2.Form1.resources
+C:\Users\CSAdmin\source\repos\prjHafta9_2\prjHafta9_2\obj\Debug\prjHafta9_2.Properties.Resources.resources
+C:\Users\CSAdmin\source\repos\prjHafta9_2\prjHafta9_2\obj\Debug\prjHafta9_2.csproj.GenerateResource.cache
+C:\Users\CSAdmin\source\repos\prjHafta9_2\prjHafta9_2\obj\Debug\prjHafta9_2.csproj.CoreCompileInputs.cache
+C:\Users\CSAdmin\source\repos\prjHafta9_2\prjHafta9_2\obj\Debug\prjHafta9_2.exe
+C:\Users\CSAdmin\source\repos\prjHafta9_2\prjHafta9_2\obj\Debug\prjHafta9_2.pdb
