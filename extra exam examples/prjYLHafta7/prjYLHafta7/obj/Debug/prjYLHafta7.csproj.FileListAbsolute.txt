@@ -1,0 +1,10 @@
+C:\Users\CSAdmin\source\repos\prjYLHafta7\prjYLHafta7\bin\Debug\prjYLHafta7.exe.config
+C:\Users\CSAdmin\source\repos\prjYLHafta7\prjYLHafta7\bin\Debug\prjYLHafta7.exe
+C:\Users\CSAdmin\source\repos\prjYLHafta7\prjYLHafta7\bin\Debug\prjYLHafta7.pdb
+C:\Users\CSAdmin\source\repos\prjYLHafta7\prjYLHafta7\obj\Debug\prjYLHafta7.csprojAssemblyReference.cache
+C:\Users\CSAdmin\source\repos\prjYLHafta7\prjYLHafta7\obj\Debug\prjYLHafta7.Form1.resources
+C:\Users\CSAdmin\source\repos\prjYLHafta7\prjYLHafta7\obj\Debug\prjYLHafta7.Properties.Resources.resources
+C:\Users\CSAdmin\source\repos\prjYLHafta7\prjYLHafta7\obj\Debug\prjYLHafta7.csproj.GenerateResource.cache
+C:\Users\CSAdmin\source\repos\prjYLHafta7\prjYLHafta7\obj\Debug\prjYLHafta7.csproj.CoreCompileInputs.cache
+C:\Users\CSAdmin\source\repos\prjYLHafta7\prjYLHafta7\obj\Debug\prjYLHafta7.exe
+C:\Users\CSAdmin\source\repos\prjYLHafta7\prjYLHafta7\obj\Debug\prjYLHafta7.pdb
